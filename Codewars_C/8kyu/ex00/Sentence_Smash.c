@@ -16,16 +16,16 @@ char *smash(const char *const words[], size_t count)
         return empty;
     }
 
-    // Calculate the total length needed
-    size_t total_length = 0;
+    // Calculate the total len needed
+    size_t total_len = 0;
     for (size_t i = 0; i < count; ++i)
     {
-        total_length += strlen(words[i]);
+        total_len += strlen(words[i]);
     }
-    total_length += (count - 1); // Add spaces between words
+    total_len += (count - 1); // Add spaces between words
 
     // Allocate memory for the resulting string
-    char *result = (char *)malloc(total_length + 1); // +1 for the null terminator
+    char *result = (char *)malloc(total_len + 1); // +1 for the null terminator
     if (result == NULL)
     {
         return NULL; // Handle allocation failure

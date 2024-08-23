@@ -1,21 +1,21 @@
 #include <stddef.h>
 #include <inttypes.h>
 
-void digitize(uint64_t n, uint8_t digits[], size_t *length_out)
+void digitize(uint64_t n, uint8_t digits[], size_t *len_out)
 {
-    size_t length = 0;
+    size_t len = 0;
 
     if (n == 0)
     {
-        digits[length++] = 0;
+        digits[len++] = 0;
     }
     else
     {
         while (n > 0)
         {
-            digits[length++] = n % 10; // extract the last digit
+            digits[len++] = n % 10; // extract the last digit
             n /= 10;                   // remove the last digit from n
         }
     }
-    *length_out = length;
+    *len_out = len;
 }
