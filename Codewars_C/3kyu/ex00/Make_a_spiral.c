@@ -30,6 +30,7 @@ void spiralize(unsigned size, int spiral[size][size]) {
             }
         }
 
+
         switch (location[2]) {
             case 0:
                 location[1] += x - 1;
