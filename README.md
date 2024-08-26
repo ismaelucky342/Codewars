@@ -60,7 +60,7 @@ Users write and submit their code in an online development environment provided 
 |[**Human Readable time**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/5kyu/ex00) | completed |  5 kyu |
 |[**7X7 Skyscrapers**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex00) | completed |  1 kyu |
 |[**Tiny Three pass Compiler**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex01) | completed |  1 kyu |
-
+|[**Become Inmortal**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex02) | completed |  1 kyu |
 
 # Extras 
 Despite having reached the current level and having completed numerous challenging katas, this repository will continue to expand as I continue to learn and master new concepts, tackle more complex problems, and explore different programming languages. The learning process never really ends and I am committed to continually improving my skills and sharing those solutions here.
