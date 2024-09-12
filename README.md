@@ -31,8 +31,12 @@ Users write and submit their code in an online development environment provided 
 |[**basic operations**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex06) | completed |  8 kyu |
 |[**area perimeter**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex07) | completed |  8 kyu |
 |[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex08) | completed |  8 kyu |
+|[**Rock Paper Scissors**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex09) | completed |  8 kyu |
 |[**vowel count**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex00) | completed |  7 kyu |
 |[**two2one**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex01) | completed |  7 kyu |
+|[**rev_print**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex02) | completed |  7 kyu |
+|[**String2number**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex03) | completed |  7 kyu |
+|[**highest_profit**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex04) | completed |  7 kyu |
 |[**str2digit**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/6kyu/ex00) | completed |  6 kyu |
 |[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/6kyu/ex01) | completed |  6 kyu |
 |[**Human Readable time**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/5%20kyu/ex00) | completed |  5 kyu |
