@@ -19,27 +19,6 @@ Katas are ranked using a Kyu/Dan system, inspired by the ranking system in Japan
 Users write and submit their code in an online development environment provided by Codewars. The code is automatically evaluated through a series of tests that check the accuracy and efficiency of the solution.
 
 # Repository distribution 
-### C language Codewars
-| Katas | Score | Rank |
-|--------|--------|---------------|
-|[**Sentence Smash**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex00) | completed | 8 kyu |
-|[**keep hydrated**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex01) | completed |  8 kyu |
-|[**will you make it?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex02) | completed |  8 kyu |
-|[**Total amount of points**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex03) | completed |  8 kyu |
-|[**set alarm**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex04) | completed |  8 kyu |
-|[**opposite number**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex05) | completed |  8 kyu |
-|[**basic operations**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex06) | completed |  8 kyu |
-|[**area perimeter**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex07) | completed |  8 kyu |
-|[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex08) | completed |  8 kyu |
-|[**vowel count**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex00) | completed |  7 kyu |
-|[**two2one**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex01) | completed |  7 kyu |
-|[**str2digit**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/6kyu/ex00) | completed |  6 kyu |
-|[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/6kyu/ex01) | completed |  6 kyu |
-|[**Human Readable time**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/5%20kyu/ex00) | completed |  5 kyu |
-|[**Make a spiral**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/3kyu/ex00) | completed |  3 kyu |
-
-
-
 ### Pyhon Codewars
 
 | Katas | Score | Rank |
@@ -61,6 +40,28 @@ Users write and submit their code in an online development environment provided 
 |[**7X7 Skyscrapers**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex00) | completed |  1 kyu |
 |[**Tiny Three pass Compiler**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex01) | completed |  1 kyu |
 |[**Become Inmortal**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex02) | completed |  1 kyu |
+|[**Optimal Transportation**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex03) | in development |  1 kyu |
+
+### C language Codewars
+| Katas | Score | Rank |
+|--------|--------|---------------|
+|[**Sentence Smash**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex00) | completed | 8 kyu |
+|[**keep hydrated**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex01) | completed |  8 kyu |
+|[**will you make it?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex02) | completed |  8 kyu |
+|[**Total amount of points**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex03) | completed |  8 kyu |
+|[**set alarm**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex04) | completed |  8 kyu |
+|[**opposite number**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex05) | completed |  8 kyu |
+|[**basic operations**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex06) | completed |  8 kyu |
+|[**area perimeter**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex07) | completed |  8 kyu |
+|[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/8kyu/ex08) | completed |  8 kyu |
+|[**vowel count**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex00) | completed |  7 kyu |
+|[**two2one**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/7kyu/ex01) | completed |  7 kyu |
+|[**str2digit**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/6kyu/ex00) | completed |  6 kyu |
+|[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/6kyu/ex01) | completed |  6 kyu |
+|[**Human Readable time**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/5%20kyu/ex00) | completed |  5 kyu |
+|[**Make a spiral**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_C/3kyu/ex00) | completed |  3 kyu |
+
+
 
 # Extras 
 Despite having reached the current level and having completed numerous challenging katas, this repository will continue to expand as I continue to learn and master new concepts, tackle more complex problems, and explore different programming languages. The learning process never really ends and I am committed to continually improving my skills and sharing those solutions here.
