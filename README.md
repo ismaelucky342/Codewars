@@ -37,14 +37,15 @@ Users write and submit their code in an online development environment provided 
 |[**str2digit**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/6kyu/ex00) | completed | 6 kyu |
 |[**Are they the same?**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/6kyu/ex01) | completed | 6 kyu |
 |[**Human Readable time**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/5kyu/ex00) | completed | 5 kyu |
+|[**Debugger**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/2kyu/ex00) | completed | 2 kyu |
+|[**Transforming Maze Solver**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/2kyu/ex01) | completed | 2 kyu |
 |[**7X7 Skyscrapers**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex00) | completed | 1 kyu |
 |[**Tiny Three-pass Compiler**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex01) | completed | 1 kyu |
 |[**Become Immortal**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex02) | completed | 1 kyu |
 |[**Faberge Eggs Linear**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex03) | completed | 1 kyu |
 |[**REBND**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex04) | completed | 1 kyu |
 |[**Optimal Transportation**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex05) | completed | 1 kyu |
-|[**Debugger**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/2kyu/ex00) | completed | 2 kyu |
-|[**Transforming Maze Solver**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/2kyu/ex01) | completed | 2 kyu |
+| [**Sliding Puzzle Solver**](https://github.com/ismaelucky342/Codewars/tree/main/Codewars_Python/1kyu/ex06) | completed | 1 kyu |
 
 ### C Language Codewars
 
