@@ -1,4 +1,4 @@
-# Codewars
+# Codewars (2 Kyu)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/47dc2e45-7181-4758-8277-92ad43cb2f22" alt="codewars">
 </p>
